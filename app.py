@@ -20,6 +20,7 @@ def index():
         ### proses pencari jawaban ###
         import gensim
         import nltk
+        nltk.download('punkt')
         
         # 1. preprocessing pake gensim
         question_preprocessing = gensim.utils.simple_preprocess(pertanyaan)
