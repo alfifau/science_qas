@@ -1,2 +1,2 @@
 -r common.txt
-tensorflow-cpu==1.12.0
+tensorflow-cpu==1.15.0
