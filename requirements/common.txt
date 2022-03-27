@@ -2,7 +2,7 @@ Flask==1.0.2
 gensim==3.7.0
 numpy
 Keras==2.1.6
-Keras-Applications==1.0.6
+Keras-Applications==1.0.8
 Keras-Preprocessing==1.0.5
 nltk==3.4
 gunicorn==19.9.0
